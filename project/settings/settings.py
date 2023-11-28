@@ -74,7 +74,7 @@ WSGI_APPLICATION = 'project.wsgi.application'
 
 LANGUAGE_CODE = 'ru'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'Asia/Vladivostok'
 
 USE_I18N = True
 
